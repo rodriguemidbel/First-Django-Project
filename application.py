@@ -1,0 +1,1 @@
+# Petit fonction en python
